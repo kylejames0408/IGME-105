@@ -1,0 +1,19 @@
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\GUICreationAndEvents\bin\Debug\GUICreationAndEvents.exe.config
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\GUICreationAndEvents\bin\Debug\GUICreationAndEvents.exe
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\GUICreationAndEvents\bin\Debug\GUICreationAndEvents.pdb
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\GUICreationAndEvents\obj\Debug\GUICreationAndEvents.csprojAssemblyReference.cache
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\GUICreationAndEvents\obj\Debug\GUICreationAndEvents.GUICreationAndEvents.resources
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\GUICreationAndEvents\obj\Debug\GUICreationAndEvents.Properties.Resources.resources
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\GUICreationAndEvents\obj\Debug\GUICreationAndEvents.csproj.GenerateResource.cache
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\GUICreationAndEvents\obj\Debug\GUICreationAndEvents.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\GUICreationAndEvents\obj\Debug\GUICreationAndEvents.exe
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\GUICreationAndEvents\obj\Debug\GUICreationAndEvents.pdb
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\GUICreationAndEvents\bin\Debug\GUICreationAndEvents.exe.config
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\GUICreationAndEvents\bin\Debug\GUICreationAndEvents.exe
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\GUICreationAndEvents\bin\Debug\GUICreationAndEvents.pdb
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\GUICreationAndEvents\obj\Debug\GUICreationAndEvents.csprojAssemblyReference.cache
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\GUICreationAndEvents\obj\Debug\GUICreationAndEvents.GUICreationAndEvents.resources
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\GUICreationAndEvents\obj\Debug\GUICreationAndEvents.Properties.Resources.resources
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\GUICreationAndEvents\obj\Debug\GUICreationAndEvents.csproj.GenerateResource.cache
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\GUICreationAndEvents\obj\Debug\GUICreationAndEvents.exe
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\GUICreationAndEvents\obj\Debug\GUICreationAndEvents.pdb

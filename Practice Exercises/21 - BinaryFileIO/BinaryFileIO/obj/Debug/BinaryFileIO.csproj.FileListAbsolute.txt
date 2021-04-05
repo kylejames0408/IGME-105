@@ -1,0 +1,7 @@
+Z:\IGMProfile\IGME105\Week 10 [10-28-19 - 11-1-19]\BinaryFileIO\bin\Debug\BinaryFileIO.exe.config
+Z:\IGMProfile\IGME105\Week 10 [10-28-19 - 11-1-19]\BinaryFileIO\bin\Debug\BinaryFileIO.exe
+Z:\IGMProfile\IGME105\Week 10 [10-28-19 - 11-1-19]\BinaryFileIO\bin\Debug\BinaryFileIO.pdb
+Z:\IGMProfile\IGME105\Week 10 [10-28-19 - 11-1-19]\BinaryFileIO\obj\Debug\BinaryFileIO.csprojAssemblyReference.cache
+Z:\IGMProfile\IGME105\Week 10 [10-28-19 - 11-1-19]\BinaryFileIO\obj\Debug\BinaryFileIO.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\IGME105\Week 10 [10-28-19 - 11-1-19]\BinaryFileIO\obj\Debug\BinaryFileIO.exe
+Z:\IGMProfile\IGME105\Week 10 [10-28-19 - 11-1-19]\BinaryFileIO\obj\Debug\BinaryFileIO.pdb

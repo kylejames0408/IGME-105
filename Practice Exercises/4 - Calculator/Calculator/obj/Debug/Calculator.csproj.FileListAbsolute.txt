@@ -1,0 +1,7 @@
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Calculator\bin\Debug\Calculator.exe.config
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Calculator\bin\Debug\Calculator.exe
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Calculator\bin\Debug\Calculator.pdb
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Calculator\obj\Debug\Calculator.exe
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Calculator\obj\Debug\Calculator.pdb

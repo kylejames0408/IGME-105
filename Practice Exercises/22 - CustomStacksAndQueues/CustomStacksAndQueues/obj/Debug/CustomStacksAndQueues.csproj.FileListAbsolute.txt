@@ -1,0 +1,7 @@
+Z:\IGMProfile\IGME105\Week 11 [11-4-19 - 11-8-19]\CustomStacksAndQueues\bin\Debug\CustomStacksAndQueues.exe.config
+Z:\IGMProfile\IGME105\Week 11 [11-4-19 - 11-8-19]\CustomStacksAndQueues\bin\Debug\CustomStacksAndQueues.exe
+Z:\IGMProfile\IGME105\Week 11 [11-4-19 - 11-8-19]\CustomStacksAndQueues\bin\Debug\CustomStacksAndQueues.pdb
+Z:\IGMProfile\IGME105\Week 11 [11-4-19 - 11-8-19]\CustomStacksAndQueues\obj\Debug\CustomStacksAndQueues.csprojAssemblyReference.cache
+Z:\IGMProfile\IGME105\Week 11 [11-4-19 - 11-8-19]\CustomStacksAndQueues\obj\Debug\CustomStacksAndQueues.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\IGME105\Week 11 [11-4-19 - 11-8-19]\CustomStacksAndQueues\obj\Debug\CustomStacksAndQueues.exe
+Z:\IGMProfile\IGME105\Week 11 [11-4-19 - 11-8-19]\CustomStacksAndQueues\obj\Debug\CustomStacksAndQueues.pdb

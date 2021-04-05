@@ -1,0 +1,21 @@
+D:\Chris\Desktop\DebuggingPractice\bin\Debug\DebuggingPractice.exe.config
+D:\Chris\Desktop\DebuggingPractice\bin\Debug\DebuggingPractice.exe
+D:\Chris\Desktop\DebuggingPractice\bin\Debug\DebuggingPractice.pdb
+D:\Chris\Desktop\DebuggingPractice\obj\Debug\DebuggingPractice.csprojAssemblyReference.cache
+D:\Chris\Desktop\DebuggingPractice\obj\Debug\DebuggingPractice.csproj.CoreCompileInputs.cache
+D:\Chris\Desktop\DebuggingPractice\obj\Debug\DebuggingPractice.exe
+D:\Chris\Desktop\DebuggingPractice\obj\Debug\DebuggingPractice.pdb
+C:\Users\Chris\Dropbox\School\2191 - GDAPS 1 Accelerated\Lectures\Week 6\Day 1 - Debugging\DebuggingPractice\bin\Debug\DebuggingPractice.exe.config
+C:\Users\Chris\Dropbox\School\2191 - GDAPS 1 Accelerated\Lectures\Week 6\Day 1 - Debugging\DebuggingPractice\bin\Debug\DebuggingPractice.exe
+C:\Users\Chris\Dropbox\School\2191 - GDAPS 1 Accelerated\Lectures\Week 6\Day 1 - Debugging\DebuggingPractice\bin\Debug\DebuggingPractice.pdb
+C:\Users\Chris\Dropbox\School\2191 - GDAPS 1 Accelerated\Lectures\Week 6\Day 1 - Debugging\DebuggingPractice\obj\Debug\DebuggingPractice.csprojAssemblyReference.cache
+C:\Users\Chris\Dropbox\School\2191 - GDAPS 1 Accelerated\Lectures\Week 6\Day 1 - Debugging\DebuggingPractice\obj\Debug\DebuggingPractice.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Dropbox\School\2191 - GDAPS 1 Accelerated\Lectures\Week 6\Day 1 - Debugging\DebuggingPractice\obj\Debug\DebuggingPractice.exe
+C:\Users\Chris\Dropbox\School\2191 - GDAPS 1 Accelerated\Lectures\Week 6\Day 1 - Debugging\DebuggingPractice\obj\Debug\DebuggingPractice.pdb
+Z:\IGMProfile\IGME105\Week 6 [9-30-19 - 10-4-19]\DebuggingPractice\bin\Debug\DebuggingPractice.exe.config
+Z:\IGMProfile\IGME105\Week 6 [9-30-19 - 10-4-19]\DebuggingPractice\bin\Debug\DebuggingPractice.exe
+Z:\IGMProfile\IGME105\Week 6 [9-30-19 - 10-4-19]\DebuggingPractice\bin\Debug\DebuggingPractice.pdb
+Z:\IGMProfile\IGME105\Week 6 [9-30-19 - 10-4-19]\DebuggingPractice\obj\Debug\DebuggingPractice.csprojAssemblyReference.cache
+Z:\IGMProfile\IGME105\Week 6 [9-30-19 - 10-4-19]\DebuggingPractice\obj\Debug\DebuggingPractice.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\IGME105\Week 6 [9-30-19 - 10-4-19]\DebuggingPractice\obj\Debug\DebuggingPractice.exe
+Z:\IGMProfile\IGME105\Week 6 [9-30-19 - 10-4-19]\DebuggingPractice\obj\Debug\DebuggingPractice.pdb

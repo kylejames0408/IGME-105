@@ -1,0 +1,23 @@
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\UserInterfaceFromHell\bin\Debug\UserInterfaceFromHell.exe.config
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\UserInterfaceFromHell\bin\Debug\UserInterfaceFromHell.exe
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\UserInterfaceFromHell\bin\Debug\UserInterfaceFromHell.pdb
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.csprojAssemblyReference.cache
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.StartPage.resources
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.Properties.Resources.resources
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.csproj.GenerateResource.cache
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.exe
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.pdb
+Z:\IGMProfile\IGME105\Week 13 [11-18-19 - 11-22-19]\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.HealthForm.resources
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\UserInterfaceFromHell\bin\Debug\UserInterfaceFromHell.exe.config
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\UserInterfaceFromHell\bin\Debug\UserInterfaceFromHell.exe
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\UserInterfaceFromHell\bin\Debug\UserInterfaceFromHell.pdb
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.csprojAssemblyReference.cache
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.HealthForm.resources
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.StartPage.resources
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.Properties.Resources.resources
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.csproj.GenerateResource.cache
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.exe
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.pdb
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.FoodLog.resources
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\UserInterfaceFromHell\obj\Debug\UserInterfaceFromHell.WorkoutLog.resources

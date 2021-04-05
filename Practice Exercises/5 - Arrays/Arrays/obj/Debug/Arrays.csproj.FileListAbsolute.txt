@@ -1,0 +1,7 @@
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Arrays\bin\Debug\Arrays.exe.config
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Arrays\bin\Debug\Arrays.exe
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Arrays\bin\Debug\Arrays.pdb
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Arrays\obj\Debug\Arrays.exe
+E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Arrays\obj\Debug\Arrays.pdb
