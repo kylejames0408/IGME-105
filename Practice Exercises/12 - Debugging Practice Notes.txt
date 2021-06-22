@@ -1,0 +1,48 @@
+Problem 1:
+	Expected Output: Tell the user whether or not the integer they entered is in the array
+
+	How to test it: Run it once to see output, then use debugger to see what happens in each step to make it have it's current output
+
+	Issues: - Error checking statement is not a while loop
+			- Prints whether or not each value in the array is the value that they're looking for
+
+	How I Fixed:- Made if statement a while loop
+				- Created a bool to test to see if the data was found, if it wasn't THEN it will say that the data wasn't found, rather than reporting it for each piece of data.
+
+Problem 2:
+	Expected Output: - Tell the user two enemies who are fighting
+
+	How to test it: Run it once, then step into the class method using step into in the debugger
+
+	Issues:	- Names are not reported correctly (in intro or if one wins)
+			- It's always a tie (deal the same damage - same rng)
+			- 
+
+	How I Fixed:- Altered outputs so it prints the names
+				- Included rng in the constructor to pass in
+
+Problem 3:
+	Expected Output: - Print original list
+					 - Remove negatives
+					 - Print new list
+
+	How to test it: Run it once, see errors, step through debugger
+
+	Issues: Doesn't remove all negatives due to the list shifting
+
+	How I Fixed: Decremented i in the loop for each team the contents in the list are shifted
+
+Problem 4:
+	Expected Output: - Print rules, ask for user's name, ask whether or not they like pizza, ask how many of their friends like pizza, ask if they've won free pizza before
+
+	How to test it: Run it once to see the output, step through debugger to see why it's doing what it's doing
+
+	Issues: - Asking for user's name should be answered in same line
+			- Loops through if the user likes pizza infinitely
+			- Doesn't actually check if you've won pizza before
+			- Doesn't store how many weeks ago you won pizza
+
+	How I Fixed: - Changed WriteLine to write
+				 - Changed || (or) to && (and)
+				 - Changed previous winner do while variable to hasWonPizza
+				 - Changed out variable to wonPizzaWeeks for if they won free pizza before
