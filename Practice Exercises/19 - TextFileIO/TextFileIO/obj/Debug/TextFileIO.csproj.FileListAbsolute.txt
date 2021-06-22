@@ -1,6 +1,0 @@
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\TextFileIO\bin\Debug\TextFileIO.exe.config
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\TextFileIO\bin\Debug\TextFileIO.exe
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\TextFileIO\bin\Debug\TextFileIO.pdb
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\TextFileIO\obj\Debug\TextFileIO.csprojAssemblyReference.cache
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\TextFileIO\obj\Debug\TextFileIO.exe
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\TextFileIO\obj\Debug\TextFileIO.pdb

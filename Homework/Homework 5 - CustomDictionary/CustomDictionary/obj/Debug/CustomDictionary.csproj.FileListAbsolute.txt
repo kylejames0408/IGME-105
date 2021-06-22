@@ -1,6 +1,0 @@
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\CustomDictionary\bin\Debug\CustomDictionary.exe.config
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\CustomDictionary\bin\Debug\CustomDictionary.exe
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\CustomDictionary\bin\Debug\CustomDictionary.pdb
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\CustomDictionary\obj\Debug\CustomDictionary.csprojAssemblyReference.cache
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\CustomDictionary\obj\Debug\CustomDictionary.exe
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Homework\CustomDictionary\obj\Debug\CustomDictionary.pdb

@@ -1,7 +1,0 @@
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Properties\bin\Debug\Properties.exe.config
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Properties\bin\Debug\Properties.exe
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Properties\bin\Debug\Properties.pdb
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Properties\obj\Debug\Properties.exe
-E:\C#\IGME 105 - Game Design and Algorithm Problem Solving I\Practice Exercises\Properties\obj\Debug\Properties.pdb
